@@ -9,6 +9,13 @@
 
 ### 🏠 [Homepage](https://netflix-clone-5fe85.web.app/)
 
+
+<img width="1512" alt="Screen Shot 2022-07-31 at 3 49 23 PM" src="https://user-images.githubusercontent.com/98237529/182200032-e8c19c2c-6626-4845-8c80-e95ce199980e.png">
+
+
+
+
+
 ### ✨ [Demo](https://netflix-clone-5fe85.web.app/)
 
 ## Install
