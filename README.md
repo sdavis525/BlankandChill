@@ -10,8 +10,8 @@
 ### 🏠 [Homepage](https://netflix-clone-5fe85.web.app/)
 
 
-<img width="1512" alt="Screen Shot 2022-07-31 at 3 49 23 PM" src="https://user-images.githubusercontent.com/98237529/182200032-e8c19c2c-6626-4845-8c80-e95ce199980e.png">
 
+<img width="1512" alt="Screen Shot 2022-08-01 at 12 16 20 PM" src="https://user-images.githubusercontent.com/98237529/182200152-aeb9959d-ed44-43ae-9923-817468306dac.png">
 
 
 
